@@ -120,7 +120,6 @@ If you need help, feel free to open an issue with the label `question` or reach 
 Thank you for helping to make SiteSurveyor better!
 ```
 
----
 
 ### Key Sections
 - **Branching Strategy**: Clarifies how contributors should use branches.
