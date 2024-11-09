@@ -1,6 +1,3 @@
-Here's the complete `README.md` file, incorporating your additional instructions and setup information into a unified document:
-
-```markdown
 # SiteSurveyor
 
 **SiteSurveyor** is an open-source land surveying software developed by Eineva Inc. Designed specifically for regions with limited internet connectivity, SiteSurveyor provides offline functionality, secure data storage, and automated processing for professional surveyors, government agencies, and educational institutions. Supported on mobile (iOS and Android), desktop, and web platforms, SiteSurveyor makes surveying more accessible, efficient, and accurate.
