@@ -2,13 +2,12 @@
 
 ## Supported Versions
 
-The following table lists the versions of SiteSurveyor that are currently receiving security updates and support.
+The SiteSurveyor project is currently in the pre-development phase, and no official versions have been released yet. Once we release a stable version (expected to be version `1.0.0`), we will list supported versions here and provide ongoing security updates for those versions.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.1.x   | :white_check_mark: |
-| 1.0.x   | :white_check_mark: |
-| < 1.0   | :x:                |
+| None    | :x:                |
+
 
 Only the latest minor versions of each major release receive active security updates. If you’re using an older version, please consider upgrading to a supported release.
 
